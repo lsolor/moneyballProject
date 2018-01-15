@@ -1,0 +1,10 @@
+1997_battingStats.csv
+1998_battingStats.csv
+1999_battingStats.csv
+2000_battingStats.csv
+2001_battingStats.csv
+1997_pitchingStats.csv
+1998_pitchingStats.csv
+1999_pitchingStats.csv
+2000_pitchingStats.csv
+2001_pitchingStats.csv
